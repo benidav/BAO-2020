@@ -1,0 +1,22 @@
+File written by David Benisty and Denitsa Staicova
+If you use it or parts of it, please cite arXiv:2009.10701 [astro-ph.CO]
+Last update: 15.12.2020
+
+# zeff val error parameter arxiv year Experiment
+0.72    2353    63    DVratio   1712.08064    2017    #SDSS-IV DR14 # LRG + high-redshift tail 
+0.32    1264    25    DVratio    1401.1768    2016    #SDSS-DR11 LOWZ (galaxy clustering)
+0.54    9.212    0.41    DArd    1201.2172    2012    # SDSS-III DR8 (luminous galaxies)
+0.106    0.336    0.015    rdDV    1106.3366    2011    #6dFGS 
+0.15    664    25.0    DVratio    1409.3242    2014    #SDSS DR7 (galaxy clustering)  
+0.81    10.75    0.43    DArd    1712.06209    2017    #DES Year1  (galaxy clustering)
+1.52    3843    147.0    DVratio    1705.06373    2017    #SDSS-IV/DR14 (quasars clustering)
+2.3    34188    1188    Hxrd    1211.2616    2012    #Boss/DR9 Lya forest of quasars 
+0.57    13.67    0.22    DVrd    1203.6594    2012    #SDSSIII/DR9 (galaxy clustering CMASS)
+0.275    0.1390    0.0037    rdDV    0907.1660    2009    #SDSS-DR7+2dFGRS (galaxy clustering)
+2.34    8.86    0.29    DHrd    1904.03400    2019    #BOSS DR14 Lya in LyBeta region 
+0.44    0.0870    0.0042   rdDV    1204.3674    2012    #WiggleZ (galaxy clustering)
+0.6    0.0672    0.0031    rdDV    1907.05608.1204.3674    2012    #WiggleZ (galaxy clustering)
+0.73    0.0593    0.0020    rdDV    1204.3674    2012    #Wiggle (galaxy clustering)
+1.480    13.23    0.47    DHrd    2007.08998    2020    #SDSS-IV/eBoss/DR16 BAO+RSD consensus Fourrier+config (quasars clustering)
+0.697    1499    77    DAratio    2005.13126    2020    #DECals DR8 (LRG)
+0.874    1680    109    DAratio    2005.13126    2020    #DECals DR8 (LRG)
